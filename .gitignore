@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2024 yanchan09 <yan@omg.lol>
+#
+# SPDX-License-Identifier: MPL-2.0
+
+/linux-6.6.29
+*.o
+/bootstrap-root
+/crack
+vmrun.bin
